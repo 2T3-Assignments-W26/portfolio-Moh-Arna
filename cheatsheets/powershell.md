@@ -38,22 +38,22 @@ PowerShell is an essential tool for:
 7.0 | 2020 | Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.
 
 ### Version Summary
-Windows PowerShell: Versions 1.0 to 5.1 (Windows-only).
-PowerShell Core: Versions 6.0 and above (cross-platform).
++ **Windows PowerShell**: Versions 1.0 to 5.1 (Windows-only).
++ **PowerShell Core**: Versions 6.0 and above (cross-platform).
 
 
-PowerShell for Beginners
+## PowerShell for Beginners
 
-Basic Commands to Get Started
+### Basic Commands to Get Started
 
-Get-Command: Lists all available commands.
-Get-Help: Provides help information for commands.
-Get-Process: Displays all running processes.
-Stop-Process: Stops a specific process.
-Set-Location: Changes the current directory (like cd in Command Prompt).
-New-Item: Creates a new file or directory.
++ **`Get-Command`**: Lists all available commands.
++ **`Get-Help`**: Provides help information for commands.
++ **`Get-Process`**: Displays all running processes.
++ **`Stop-Process`**: Stops a specific process.
++ **`Set-Location`**: Changes the current directory (like cd in Command Prompt).
++ **`New-Item`**: Creates a new file or directory.
 
-Example Script
+### Example Script
 
 Here’s a simple script to list all files in a directory and display their sizes:
 # Get all files in the current directory
