@@ -1,6 +1,6 @@
 # PowerShell
 
-![An image of PowerShell](/cheatsheets/PowerShell_5.0_icon.png)
+![An image of PowerShell](/cheatsheets//PowerShell_5.0_icon.png)
 ## **About PowerShell**
 
 [**PowerShell**](https://docs.microsoft.com/en-us/powershell/) is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the [.NET framework](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview), **PowerShell** is both a _**command-line tool**_ and _**a scripting environment**_, making it a versatile tool for programmers and system administrators.
@@ -80,7 +80,7 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
   + Multi-tab interface for working with multiple scripts.
 + **Best for**: Beginners and users working on older versions of PowerShell.
 
-![Image of ISE](/cheatsheets/ISE_panes.png)
+![Image of ISE](/cheatsheets//ISE_panes.png)
 
 #### Visual Studio Code (VS Code)
 
@@ -93,7 +93,7 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
     + Cross-platform _(Windows, macOS, Linux)_.
 + **Best for**: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
 
-![Image of VS Code](/cheatsheets/vs_code.png)
+![Image of VS Code](/cheatsheets//vs_code.png)
 
 Useful Resources for Learning PowerShell
 Official PowerShell Documentation
