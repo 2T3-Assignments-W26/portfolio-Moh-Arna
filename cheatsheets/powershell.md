@@ -80,7 +80,7 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
   + Multi-tab interface for working with multiple scripts.
 + **Best for**: Beginners and users working on older versions of PowerShell.
 
-![Image of ISE](ISE_panes.png)
+![Image of ISE](.\ISE_panes.png)
 
 #### Visual Studio Code (VS Code)
 
@@ -93,7 +93,7 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
     + Cross-platform _(Windows, macOS, Linux)_.
 + **Best for**: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
 
-![Image of VS Code](vs_code.png)
+![Image of VS Code](.\vs_code.png)
 
 Useful Resources for Learning PowerShell
 Official PowerShell Documentation
